@@ -1,0 +1,29 @@
+{
+  "name": "queroserbtime",
+  "version": "1.0.0",
+  "description": "Teste de preleção da BTime. Resolução do problma Contando as Letras dos números disponivel no DojoPuzzles.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbtferreira/QueroSerBtime.git"
+  },
+  "keywords": [
+    "nodejs",
+    "btime",
+    "dojopuzzles",
+    "contando",
+    "as",
+    "letras",
+    "dos",
+    "números"
+  ],
+  "author": "Herbert Rezende Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbtferreira/QueroSerBtime/issues"
+  },
+  "homepage": "https://github.com/hbtferreira/QueroSerBtime#readme"
+}
